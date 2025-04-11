@@ -1,5 +1,5 @@
 (function () {
-    var url = "thegoat324.github.io/BlobeBM//main.html";
+    var url = "https://thegoat324.github.io/BlobeBM/main.html";
 
     // Open a new about:blank window
     var win = window.open();
